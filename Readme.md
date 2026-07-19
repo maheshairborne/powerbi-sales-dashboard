@@ -5,10 +5,10 @@ An interactive Power BI dashboard built to analyze sales, profit, and regional p
 ## Dashboard Preview
 
 ### 🌍 Overall Dashboard
-![Overall Dashboard](dashboard.png)
+![Overall Dashboard](Dashboard.png)
 
 ### 🌍 Regional Analysis (Africa Selected)
-![Africa Filter](dashboard2.png)
+![Africa Filter](Dashboard2.png)
 
 ## Key Features
 
